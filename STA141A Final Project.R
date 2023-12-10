@@ -25,5 +25,4 @@ tower_diff = total_tower_blue - total_tower_red
 sum(tower_diff) #-380
 matches = data.frame(newdata$matchId,dragon_diff,rift_diff,total_gold_diff,tower_diff,newdata$gameLength,newdata$winningTeam)
 
-
-
+1+1
